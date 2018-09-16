@@ -1,5 +1,5 @@
 # Maniac Mentions
-Old school Point-and-Click Adventure Game | [maniac-mentions.com](https://maniac-mentions.com/ target="_blank")
+Old school Point-and-Click Adventure Game | [maniac-mentions.com](https://maniac-mentions.com/?target=_blank)
 
 ![Preview](preview_header.png)
 
